@@ -1,5 +1,5 @@
 Hi there! <br>
-I’m Nisha, Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/nisha-patange-2686b61b2)
+I’m Nisha, feel free to message me on [LinkedIn](https://www.linkedin.com/in/nisha-patange-2686b61b2)!
 
 <!---
 npat11/npat11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
