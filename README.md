@@ -1,7 +1,8 @@
-Hi there! <br>
-I’m Nisha, feel free to message me on [LinkedIn](https://www.linkedin.com/in/nisha-patange-2686b61b2)!
+<h1 align="center">Hi👋 I'm Nisha Patange</h1>
 
-<!---
-npat11/npat11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About
+I'm a student at the University of Maryland - College Park purusing a bachelor's degree in Computer Science with a Business minor.
+
+# 🌐 Connect With Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-patange-2686b61b2)
+- Email me: 📧nishavpatange@gmail.com
