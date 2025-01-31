@@ -5,4 +5,4 @@ I'm a student at the University of Maryland - College Park purusing a bachelor's
 
 # 🌐 Connect With Me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-patange/)
-- Email me: 📧nishavpatange@gmail.com
+- 📧nishavpatange@gmail.com
